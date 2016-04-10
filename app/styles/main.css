@@ -21,9 +21,9 @@ will be correctly compiled during `gulp serve` and `gulp`
 
 html, body {
   font-family: 'Roboto', 'Helvetica', sans-serif;
-  margin: 10px;
+  margin: 25px;
   padding: 0;
-  background: blue;
+  background: white;
   color:red;
 }
 .mdl-demo .mdl-layout__header-row {
